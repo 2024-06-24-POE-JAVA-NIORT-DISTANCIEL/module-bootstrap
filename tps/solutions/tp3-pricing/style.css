@@ -1,0 +1,38 @@
+body {
+  background-color: #f8f9fa;
+}
+.card-header {
+  background-color: #e9ecef;
+  border-bottom: 0;
+}
+.card {
+  border: 0;
+  border-radius: 0.5rem;
+}
+.card-body button {
+  border-radius: 0.25rem;
+}
+.card-title {
+  margin-bottom: 0.75rem;
+}
+.table {
+  margin-top: 2rem;
+}
+.table th {
+  background-color: #f7f7f7;
+  border-top: none;
+}
+.table td,
+.table th {
+  border-top: none;
+}
+footer {
+  text-align: center;
+  background-color: #f7f7f7;
+  padding: 1rem 0;
+}
+
+.highlight {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ddd;
+}
